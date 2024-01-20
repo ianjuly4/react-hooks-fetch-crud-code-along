@@ -18,3 +18,7 @@ function App() {
 }
 
 export default App;
+
+//When X event occurs (our application loads)
+//Make Y fetch request (GET /items)
+//Update Z state (add all items to state)
